@@ -1,22 +1,22 @@
-# Available .SUPPLY One-Word Domains (5,622,035)
+# Available .SUPPLY One-Word Domains (8,850)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C850%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-5%2C622%2C035%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C850%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated public extract of available and resale .supply one-word domains from Unique Domains.
+Daily-updated dataset of available and resale .supply one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 8,850-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **5,622,035 domains** on the canonical page below.
+> **Note:** this repository currently mirrors the full live catalog for this exact search.
+> Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 8,850 rows · **Live catalog:** 5,622,035 domains
+**Public extract:** 8,850 rows · **Live catalog:** 8,850 domains
 
-**Last updated:** 2026-04-10  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/supply`  
 **Best for:** founders, investors, studios
 
@@ -67,7 +67,7 @@ print(df.head())
 | real.supply      | available | $33.48    | —             | 78             | 49     | 4      | namecheap         |
 | easy.supply      | resell    | —         | —             | 128            | 68     | 4      | Porkbun LLC       |
 | ace.supply       | premium   | $82.50    | $82.50        | 88             | 57     | 3      | name.com          |
-| wizard.supply    | available | $30.99    | $33.99        | 118            | 46     | 6      | name.com          |
+| wizard.supply    | available | $30.99    | $33.99        | 118            | 43     | 6      | name.com          |
 | sex.supply       | resell    | —         | —             | 98             | 59     | 3      | Dynadot Inc       |
 | email.supply     | premium   | $82.50    | —             | 88             | 57     | 6      | name.com          |
 | mojo.supply      | available | $30.99    | —             | 80             | 43     | 4      | name.com          |
@@ -75,13 +75,13 @@ print(df.head())
 | athletics.supply | premium   | $42.90    | $42.90        | 69             | 52     | 9      | namecheap         |
 | strategy.supply  | available | $33.48    | —             | 74             | 43     | 8      | namecheap         |
 | the.supply       | resell    | —         | —             | 98             | 58     | 3      | 1API GmbH         |
-| only.supply      | premium   | $82.50    | $82.50        | 110            | 47     | 4      | name.com          |
+| only.supply      | premium   | $82.50    | $82.50        | 110            | 46     | 4      | name.com          |
 | forward.supply   | available | $30.99    | $33.99        | 68             | 39     | 7      | name.com          |
 | smart.supply     | resell    | —         | —             | 74             | 56     | 5      | GoDaddy.com, LLC  |
-| genius.supply    | premium   | $30.99    | $33.99        | 98             | 47     | 6      | name.com          |
+| car.supply       | premium   | $520      | $520          | 94             | 46     | 3      | namecheap         |
 | gather.supply    | available | $30.99    | $33.99        | 96             | 38     | 6      | name.com          |
 | local.supply     | resell    | —         | —             | 102            | 54     | 5      | Dynadot Inc       |
-| car.supply       | premium   | $520      | $520          | 94             | 46     | 3      | namecheap         |
+| green.supply     | premium   | $128.70   | $128.70       | 108            | 45     | 5      | namecheap         |
 | unify.supply     | available | $30.99    | $33.99        | 72             | 38     | 5      | name.com          |
 | art.supply       | resell    | —         | —             | 90             | 52     | 3      | Sav.com, LLC - 19 |
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,850-row public sample | 5,622,035 live domains                           |
+| 8,850-row public sample | 8,850 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SUPPLY One-Word Domains*. Version 2026-04-10. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SUPPLY One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
