@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .supply one-word domains from Uniq
 
 **Public extract:** 8,850 rows · **Live catalog:** 8,850 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/supply`  
 **Best for:** founders, investors, studios
 
@@ -76,12 +76,12 @@ print(df.head())
 | strategy.supply  | available | $33.48    | —             | 74             | 43     | 8      | namecheap         |
 | the.supply       | resell    | —         | —             | 98             | 58     | 3      | 1API GmbH         |
 | only.supply      | premium   | $82.50    | $82.50        | 110            | 46     | 4      | name.com          |
-| forward.supply   | available | $30.99    | $33.99        | 68             | 39     | 7      | name.com          |
+| gather.supply    | available | $30.99    | $33.99        | 96             | 39     | 6      | name.com          |
 | smart.supply     | resell    | —         | —             | 74             | 56     | 5      | GoDaddy.com, LLC  |
 | car.supply       | premium   | $520      | $520          | 94             | 46     | 3      | namecheap         |
-| gather.supply    | available | $30.99    | $33.99        | 96             | 38     | 6      | name.com          |
+| forward.supply   | available | $30.99    | $33.99        | 68             | 39     | 7      | name.com          |
 | local.supply     | resell    | —         | —             | 102            | 54     | 5      | Dynadot Inc       |
-| green.supply     | premium   | $128.70   | $128.70       | 108            | 45     | 5      | namecheap         |
+| genius.supply    | premium   | $30.99    | $33.99        | 98             | 45     | 6      | name.com          |
 | unify.supply     | available | $30.99    | $33.99        | 72             | 38     | 5      | name.com          |
 | art.supply       | resell    | —         | —             | 90             | 52     | 3      | Sav.com, LLC - 19 |
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SUPPLY One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SUPPLY One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
