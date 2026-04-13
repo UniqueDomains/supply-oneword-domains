@@ -71,10 +71,10 @@ print(df.head())
 | sex.supply       | resell    | —         | —             | 98             | 59     | 3      | Dynadot Inc       |
 | email.supply     | premium   | $82.50    | —             | 88             | 57     | 6      | name.com          |
 | mojo.supply      | available | $30.99    | —             | 80             | 43     | 4      | name.com          |
-| free.supply      | resell    | —         | —             | 88             | 59     | 4      | Sav.com, LLC      |
+| the.supply       | resell    | —         | —             | 98             | 58     | 3      | 1API GmbH         |
 | athletics.supply | premium   | $42.90    | $42.90        | 69             | 52     | 9      | namecheap         |
 | strategy.supply  | available | $33.48    | —             | 74             | 43     | 8      | namecheap         |
-| the.supply       | resell    | —         | —             | 98             | 58     | 3      | 1API GmbH         |
+| free.supply      | resell    | —         | —             | 88             | 57     | 4      | Sav.com, LLC      |
 | only.supply      | premium   | $82.50    | $82.50        | 110            | 46     | 4      | name.com          |
 | gather.supply    | available | $30.99    | $33.99        | 96             | 39     | 6      | name.com          |
 | smart.supply     | resell    | —         | —             | 74             | 56     | 5      | GoDaddy.com, LLC  |
