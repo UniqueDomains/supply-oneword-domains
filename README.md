@@ -1,22 +1,22 @@
-# Available .SUPPLY One-Word Domains (8,850)
+# Available .SUPPLY One-Word Domains (11,343)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C850%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C850%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C343%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .supply one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .supply one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **11,343 domains** on the canonical page below.
 
-**Public extract:** 8,850 rows · **Live catalog:** 8,850 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,343 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/supply`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .SUPPLY one-word domai
 
 ### Files
 
-- `supply.csv` — public CSV extract (8,850 rows)
-- `supply.json` — public JSON extract (8,850 rows)
+- `supply.csv` — public CSV extract (1,000 rows)
+- `supply.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| real.supply      | available | $33.48    | —             | 78             | 49     | 4      | namecheap         |
-| easy.supply      | resell    | —         | —             | 128            | 68     | 4      | Porkbun LLC       |
-| ace.supply       | premium   | $82.50    | $82.50        | 88             | 57     | 3      | name.com          |
-| wizard.supply    | available | $30.99    | $33.99        | 118            | 43     | 6      | name.com          |
-| sex.supply       | resell    | —         | —             | 98             | 59     | 3      | Dynadot Inc       |
-| email.supply     | premium   | $82.50    | —             | 88             | 57     | 6      | name.com          |
-| mojo.supply      | available | $30.99    | —             | 80             | 43     | 4      | name.com          |
-| the.supply       | resell    | —         | —             | 98             | 58     | 3      | 1API GmbH         |
-| athletics.supply | premium   | $42.90    | $42.90        | 69             | 52     | 9      | namecheap         |
-| strategy.supply  | available | $33.48    | —             | 74             | 43     | 8      | namecheap         |
-| free.supply      | resell    | —         | —             | 88             | 57     | 4      | Sav.com, LLC      |
-| only.supply      | premium   | $82.50    | $82.50        | 110            | 46     | 4      | name.com          |
-| gather.supply    | available | $30.99    | $33.99        | 96             | 39     | 6      | name.com          |
-| smart.supply     | resell    | —         | —             | 74             | 56     | 5      | GoDaddy.com, LLC  |
-| car.supply       | premium   | $520      | $520          | 94             | 46     | 3      | namecheap         |
-| forward.supply   | available | $30.99    | $33.99        | 68             | 39     | 7      | name.com          |
-| local.supply     | resell    | —         | —             | 102            | 54     | 5      | Dynadot Inc       |
-| genius.supply    | premium   | $30.99    | $33.99        | 98             | 45     | 6      | name.com          |
-| unify.supply     | available | $30.99    | $33.99        | 72             | 38     | 5      | name.com          |
-| art.supply       | resell    | —         | —             | 90             | 52     | 3      | Sav.com, LLC - 19 |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| whynot.supply      | available | $30.99    | —             | 74             | 39     | 7      | name.com         |
+| cocoa.supply       | resell    | —         | —             | 78             | 21     | 5      | GoDaddy.com, LLC |
+| events.supply      | premium   | $123.75   | —             | 68             | 37     | 6      | name.com         |
+| WiFi.supply        | available | $33.48    | —             | 83             | 37     | 5      | namecheap        |
+| shoe.supply        | resell    | —         | —             | 69             | 20     | 4      | Spaceship, Inc.  |
+| homes.supply       | premium   | $123.75   | —             | 86             | 34     | 5      | name.com         |
+| videos.supply      | available | $30.99    | —             | 52             | 30     | 6      | name.com         |
+| solutions.supply   | premium   | $123.75   | —             | 56             | 31     | 9      | name.com         |
+| popup.supply       | available | $30.99    | —             | 84             | 29     | 6      | name.com         |
+| loans.supply       | premium   | $118.80   | $118.80       | 58             | 24     | 5      | namesilo         |
+| quotes.supply      | available | $30.99    | —             | 58             | 29     | 6      | name.com         |
+| rocks.supply       | premium   | $123.75   | —             | 78             | 18     | 5      | name.com         |
+| KFC.supply         | available | $33.48    | —             | 74             | 27     | 3      | namecheap        |
+| landscaping.supply | premium   | $500      | —             | 80             | 16     | 11     | name.com         |
+| gods.supply        | available | $30.99    | —             | 72             | 27     | 4      | name.com         |
+| gives.supply       | premium   | $41.25    | —             | 52             | 12     | 5      | name.com         |
+| trades.supply      | available | $25.99    | $25.99        | 71             | 26     | 6      | namesilo         |
+| traders.supply     | available | $30.99    | —             | 60             | 26     | 7      | name.com         |
+| sites.supply       | available | $30.99    | —             | 53             | 26     | 5      | name.com         |
+| destination.supply | available | $30.99    | —             | 90             | 25     | 11     | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,850-row public sample | 8,850 live domains                               |
+| 1,000-row public sample | 11,343 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SUPPLY One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SUPPLY One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
