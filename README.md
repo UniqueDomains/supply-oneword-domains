@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .supply one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 11,765 domains · **Median ask:** $32.66 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/supply`  
 **Best for:** founders, investors, studios
 
@@ -82,8 +82,8 @@ print(df.head())
 | traders.supply     | available | $30.99    | —             | 60             | 26     | 7      | name.com         |
 | sites.supply       | available | $30.99    | —             | 53             | 26     | 5      | name.com         |
 | pops.supply        | available | $25.99    | $25.99        | 74             | 24     | 4      | namesilo         |
-| comics.supply      | available | $30.99    | —             | 68             | 24     | 6      | name.com         |
 | shops.supply       | available | $30.99    | —             | 64             | 24     | 5      | name.com         |
+| echoes.supply      | available | $25.99    | $25.99        | 56             | 24     | 6      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SUPPLY One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SUPPLY One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
