@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .supply one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 24,259 domains · **Median ask:** $28.68 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-16
+**Last updated:** 2026-09-18
 **Canonical page:** `https://unique.domains/domains/tld/supply`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,7 @@ print(df.head())
 
 | domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
 | ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| here.supply  | premium   | $78.54    | $78.54        | high           | medium | 4      | namesilo                                                  |
 | ago.supply   | available | $30.99    | $33.99        | medium         | low    | 3      | name.com                                                  |
 | ale.supply   | resell    | —         | —             | medium         | low    | 3      | Porkbun LLC                                               |
 | beg.supply   | premium   | $38.94    | $38.94        | medium         | low    | 3      | namesilo                                                  |
@@ -83,7 +84,6 @@ print(df.head())
 | juice.supply | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC                                          |
 | sly.supply   | premium   | $41.25    | $41.25        | medium         | low    | 3      | name.com                                                  |
 | coy.supply   | available | $30.99    | $33.99        | medium         | low    | 3      | name.com                                                  |
-| under.supply | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC                                          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SUPPLY One-Word Domains*. Version 2026-09-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SUPPLY One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
