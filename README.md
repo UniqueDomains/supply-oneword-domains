@@ -1,10 +1,10 @@
-# Available .SUPPLY One-Word Domains (13,166)
+# Available .SUPPLY One-Word Domains (21,786)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-13%2C166%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-21%2C786%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .supply one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **13,166 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **21,786 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 13,166 domains · **Median ask:** $28.73 · **High-demand under $2,500:** 1
+**Public extract:** 1,000 rows · **Live catalog:** 21,786 domains · **Median ask:** $29.08 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-25
+**Last updated:** 2026-09-27
 **Canonical page:** `https://unique.domains/domains/tld/supply`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| aft.supply   | available | $25.99    | $25.99        | high           | low    | 3      | namesilo         |
-| ale.supply   | resell    | —         | —             | high           | low    | 3      | Porkbun LLC      |
-| beg.supply   | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo         |
-| ane.supply   | available | $25.99    | $25.99        | high           | low    | 3      | namesilo         |
-| sea.supply   | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
-| bro.supply   | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo         |
-| ate.supply   | available | $25.99    | $25.99        | high           | low    | 3      | namesilo         |
-| mega.supply  | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC     |
-| bud.supply   | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
-| atp.supply   | available | $25.99    | $25.99        | high           | low    | 3      | namesilo         |
-| fruit.supply | resell    | —         | —             | high           | low    | 5      | Spaceship, Inc.  |
-| bye.supply   | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
-| awe.supply   | available | $25.99    | $25.99        | high           | low    | 3      | namesilo         |
-| hotel.supply | resell    | —         | —             | high           | medium | 5      | Sav.com, LLC     |
-| dvd.supply   | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo         |
-| bae.supply   | available | $25.99    | $25.99        | high           | low    | 3      | namesilo         |
-| juice.supply | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC |
-| max.supply   | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo         |
-| ben.supply   | available | $25.99    | $25.99        | high           | medium | 3      | namesilo         |
-| under.supply | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| auk.supply        | available | $25.99    | $25.99        | high           | low    | 3      | namesilo         |
+| job.supply        | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC     |
+| apt.supply        | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
+| boy.supply        | available | $30.99    | —             | high           | low    | 3      | name.com         |
+| coin.supply       | resell    | —         | —             | high           | medium | 4      | Dynadot Inc      |
+| fog.supply        | premium   | $85.80    | $85.80        | high           | low    | 3      | namecheap        |
+| bum.supply        | available | $25.99    | $25.99        | medium         | low    | 3      | namesilo         |
+| sales.supply      | resell    | —         | —             | high           | medium | 5      | GoDaddy.com, LLC |
+| gel.supply        | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
+| cpi.supply        | available | $25.99    | $25.99        | high           | low    | 3      | namesilo         |
+| maritime.supply   | resell    | —         | —             | high           | low    | 8      | GoDaddy.com, LLC |
+| inc.supply        | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
+| dye.supply        | available | $25.99    | $25.99        | high           | low    | 3      | namesilo         |
+| contractor.supply | resell    | —         | —             | high           | low    | 10     | Dynadot Inc      |
+| non.supply        | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
+| esp.supply        | available | $25.99    | $25.99        | high           | low    | 3      | namesilo         |
+| pie.supply        | premium   | $85.80    | $85.80        | high           | low    | 3      | namecheap        |
+| fla.supply        | available | $25.99    | $25.99        | high           | low    | 3      | namesilo         |
+| rum.supply        | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo         |
+| gia.supply        | available | $25.99    | $25.99        | high           | low    | 3      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 13,166 live domains                        |
+| 1,000-row public sample | 21,786 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 1 high-demand names under $2,500           |
+| Basic exported fields   | 2 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SUPPLY One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SUPPLY One-Word Domains*. Version 2026-09-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
